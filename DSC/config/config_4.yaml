@@ -1,0 +1,15 @@
+DATASET:
+  0: "DEU_D.csv"
+  1: "ESP_D.csv"
+  2: "FRA_D.csv"
+  3: "GBR_D.csv"
+
+BENCHMARK:
+  0: "DEU_B.csv"
+  1: "ESP_B.csv"
+  2: "FRA_B.csv"
+  3: "GBR_B.csv"
+
+TASK: "CLASSIFICATION"
+PARTICIPANTS: 4
+TARGET: "is_canceled"
